@@ -1,0 +1,22 @@
+.fetchclub__container {
+  height: 50rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 50%;
+  left: 50%;
+}
+
+
+
+
+
+/* Media queries (Medium devices) */
+@media screen and (max-width: 1024px) {
+  
+}
+
+/* Media queries (Small devices) */
+@media screen and (max-width: 600px) {
+  
+}

@@ -1,0 +1,13 @@
+.boarding__container {
+  height: 50rem;
+}
+
+/* Media queries (Medium devices) */
+@media screen and (max-width: 1024px) {
+  
+}
+
+/* Media queries (Small devices) */
+@media screen and (max-width: 600px) {
+  
+}

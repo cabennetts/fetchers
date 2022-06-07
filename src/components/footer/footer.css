@@ -1,0 +1,40 @@
+.footer__container {
+  padding: 3rem 3rem;
+  height: auto;
+  background-color: #333;
+}
+
+.box__container {
+  color: aliceblue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+
+.box__container img {
+  width: 12rem;
+}
+
+.contact__info h3 {
+  justify-content: center;
+  color: lightskyblue;
+}
+
+.copyright__container {
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+/* Media queries (Medium devices) */
+@media screen and (max-width: 1024px) {
+  
+}
+
+/* Media queries (Small devices) */
+@media screen and (max-width: 600px) {
+  
+}
